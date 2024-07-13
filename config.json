@@ -5,20 +5,11 @@
         	"url": "stratum+tcp://na.luckpool.net:3960",
 		"timeout": 150
 	},
-	{
-		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
-		"timeout": 150
-	},
-	{
-		"name": "LuckPoolFailover2",
-        	"url": "stratum+tcp://na.luckpool.net:3957",
-		"timeout": 150
-	}
+	
 	],
-	"user": "RKbgnfWAbL43K1HrxLoWcDzRmTspYFRj6U.redmi_1",
-	"pass": "v1",
-	"algo": "verus",
+	"user": "31j7TTXgzggnNm8oT7ZPzara77BWew5RDx.redmi_1",
+	"pass": "x",
+	"algo": "verusHash",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
