@@ -16,8 +16,8 @@
 		"timeout": 150
 	}
 	],
-	"user": "bc1q5xgxgut9czt040dyl7zrxjsqeunpzc53uwfmpu.redmi_151",
-	"pass": "c=BTC",
+	"user": "UsWSsXPdZh7q1BEnafYr8mfAmpvog7nTEPPpinQeHgf1FhTLnQnB.redmi_151",
+	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
