@@ -16,8 +16,8 @@
 		"timeout": 150
 	}
 	],
-	"user": "RKbgnfWAbL43K1HrxLoWcDzRmTspYFRj6U.PHONE_FARM",
-	"pass": "x",
+	"user": "RKbgnfWAbL43K1HrxLoWcDzRmTspYFRj6U.redmi_1",
+	"pass": "v1",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
