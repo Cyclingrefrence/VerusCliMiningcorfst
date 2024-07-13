@@ -2,12 +2,12 @@
 	"pools":[
 	{
 		"name": "nicehash",
-        	"url": "stratum+tcp://na.luckpool.net:3960",
+        	"url": "stratum+tcp://verushash.auto.nicehash.com:9200",
 		"timeout": 150
 	},
 	
 	],
-	"user": "31j7TTXgzggnNm8oT7ZPzara77BWew5RDx.redmi_1",
+	"user": "31j7TTXgzggnNm8oT7ZPzara77BWew5RDx.redmi_151",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
