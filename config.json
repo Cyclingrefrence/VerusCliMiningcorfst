@@ -1,7 +1,7 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
+		"name": "nicehash",
         	"url": "stratum+tcp://na.luckpool.net:3960",
 		"timeout": 150
 	},
@@ -9,7 +9,7 @@
 	],
 	"user": "31j7TTXgzggnNm8oT7ZPzara77BWew5RDx.redmi_1",
 	"pass": "x",
-	"algo": "verusHash",
+	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
