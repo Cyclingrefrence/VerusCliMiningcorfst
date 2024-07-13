@@ -1,11 +1,20 @@
 {
 	"pools":[
-	{
-		"name": "nicehash",
-        	"url": "stratum+tcp://verushash.auto.nicehash.com:9200",
+		{
+		"name": "LuckPool",
+        	"url": "stratum+tcp://na.luckpool.net:3960",
 		"timeout": 150
 	},
-	
+	{
+		"name": "LuckPoolFailover1",
+        	"url": "stratum+tcp://na.luckpool.net:3956",
+		"timeout": 150
+	},
+	{
+		"name": "LuckPoolFailover2",
+        	"url": "stratum+tcp://na.luckpool.net:3957",
+		"timeout": 150
+	}
 	],
 	"user": "31j7TTXgzggnNm8oT7ZPzara77BWew5RDx.redmi_151",
 	"pass": "x",
